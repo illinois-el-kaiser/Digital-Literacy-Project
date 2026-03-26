@@ -1,0 +1,7 @@
+UPI fraud is a widespread cybercrime in India where attackers trick users into transferring money through deceptive methods such as phishing links, fake payment requests, or scam calls. These frauds often exploit a lack of awareness about how digital payment systems actually work.
+
+In a typical scenario, a victim receives a message, call, or WhatsApp notification claiming they have won a prize, received a refund, or need to verify their account. The attacker then sends a malicious link or a “collect request” on UPI apps. Believing it to be legitimate, the victim clicks the link or approves the request and unknowingly authorizes a transaction, resulting in money being deducted from their account.
+
+Students, elderly individuals, and people new to digital payments are common targets. The consequences include financial loss, exposure of personal data, and emotional distress. In many cases, recovering the lost money is difficult and time-sensitive.
+
+This case highlights the importance of understanding how UPI works and being cautious while handling unknown requests. Awareness and responsible digital behavior are key to preventing such cybercrimes.
